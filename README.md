@@ -37,3 +37,17 @@ Lists
 Loops
 
 Conditional Statements
+
+💻 How the Program Works
+
+The program opens the log file using Python file handling.
+
+It reads the file line by line.
+
+It checks for log levels such as INFO, WARNING, and ERROR.
+
+It counts how many times each log level appears.
+
+If the log level is ERROR, the program extracts the error message.
+
+Finally, it prints a summary report.
